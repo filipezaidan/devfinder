@@ -13,5 +13,6 @@ export const Container = styled.div`
 export const Title =styled.span`
     font-size: 22px;
     color: #FFF;
+    font-family: 'Nunito Sans', sans-serif;
     font-weight: bold;
 `;

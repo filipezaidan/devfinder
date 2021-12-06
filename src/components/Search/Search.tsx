@@ -6,7 +6,7 @@ const Search = () => {
     return(
         <C.Container>
             <BsSearch color='#0079FE' size={25}/>
-            <C.Input/>
+            <C.Input placeholder="Search Github username..."/>
             <C.Button>
                 <C.TitleButton>Search</C.TitleButton>
             </C.Button>
